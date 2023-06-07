@@ -1,0 +1,27 @@
+.col-lg-6 .btn:hover{
+    background-color: red;
+    color: white;
+}
+.col-lg-5 .btn:hover{
+    background-color: red;
+    color: white;
+}
+.btn5:hover{
+    background-color: brown;
+    color: white;
+}
+
+.col-md-4 a:hover{
+    color: rgb(190, 227, 25);
+}
+.col-md-3 .btn4:hover{
+    background-color: brown;
+    color: white;
+}
+.col-md-3 .btn1:hover{
+    background-color: brown;
+    color: white;
+}
+.col .card:hover{
+    border-color: brown;
+}
